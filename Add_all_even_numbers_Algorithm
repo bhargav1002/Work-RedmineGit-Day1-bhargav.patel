@@ -1,0 +1,22 @@
+Step 1 : Start
+
+Step 2 : Read the number n for the Addition of all even numbers
+
+Step 3 : Initialize the variable i with 0 and sum with 0
+
+Step 4 : Check whether i is equal to n
+
+Step 5 : If the condition returns true then directly print the value of sum
+
+Step 6 : If the condition returns false then check whether the i is even number or not
+
+Step 7 : If the i is even then add sum and i and assign it to the sum 
+
+Step 8 : Then Increment the value of i with 1
+
+Step 9 : If the i is not even then directly increment the value i with 1
+
+Step 10 : Repeat steps 4 to 9
+
+Step 11 : Stop
+
